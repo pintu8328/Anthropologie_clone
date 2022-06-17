@@ -45,10 +45,10 @@ Made the description page and address page dynamic.
 
 Linked all the pages using routes and protected routes
 
-<h2>Snap Shots 📷</h2>
+
 <h3>Home Page</h3>
 
-<img src="https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png"/>
+<img src="https://user-images.githubusercontent.com/97545631/174242233-36337adc-23ad-4b71-97f4-318f4b0a6fd3.png"/>
 
 <h3>Feactured Page</h3>
 
