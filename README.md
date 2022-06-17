@@ -1,3 +1,7 @@
+<h2>About</h2>
+Anthropologie is a unique, full-lifestyle shopping destination, with a mostly exclusive assortment of clothing, shoes, accessories, beauty, furniture, home décor, garden, bridal, and more. The brand opened its very first doors in the autumn of 1992 in Wayne, Pennsylvania, and today operates over 200 stores around the world.
+
+
 <h2> Presentation Video</h2>
  link  :  https://drive.google.com/file/d/1YWT--tA9OuN3eyOQ7swEgdIKgb73RspU/view
 
