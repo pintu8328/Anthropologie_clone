@@ -1,0 +1,235 @@
+{
+  "cloths": [
+    {
+      "id":1,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130646420009_014_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130646420009_014_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Favorite Blazer",
+      "price":235.00
+    },
+    {
+      "id":2,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130728470001_069_b17?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_069_b16?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Avec Les Filles Colorblocked Shorts",
+      "price":128.00
+    },
+    {
+      "id":3,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123650590131_211_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_211_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Rumer Luella High-Waist Wide-Leg Pant",
+      "price":329.00
+    },
+    {
+      "id":4,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4110347800056_074_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4110347800056_074_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve Long-Sleeve Buttondown",
+      "price":98.00
+    },
+    {
+      "id":5,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130647160057_031_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130647160057_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve Bustier Top",
+      "price":78.00
+    },
+    {
+      "id":6,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130646420031_069_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_069_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Sarah Campbell for Anthropologie Shorts",
+      "price":120.00
+    },
+    { 
+      "id":7,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130652010001_070_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130652010001_070_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Agnes Vest",
+      "price":188.00
+    },
+    {
+      "id":8,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4112347800042_066_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4112347800042_066_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Long-Sleeved Striped Buttondown",
+      "price":178.00
+    },
+    {
+      "id":9,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130728470001_029_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_029_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Sleeveless Blouse Bodysuit",
+      "price":188.00
+    },
+    {
+      "id":10,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4112609690192_055_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4112609690192_055_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Break Up Blazer",
+      "price":298.00
+    },
+    {
+      "id":11,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/64222805_083_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/64222805_083_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Essential Slim Kick Flare Pants",
+      "price":130.00
+    },
+    {
+      "id":12,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123650590131_018_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_018_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Somerset Maxi Dress",
+      "price":100.00
+    },
+    {
+      "id":13,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Favorite Daughter Eyelet Buttondown",
+      "price":198.00
+    },
+    {
+      "id":14,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130647160128_049_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130647160128_049_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Significant Other Ophelia Shorts",
+      "price":218.00
+    },
+    {
+      "id":15,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4110652010044_066_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4110652010044_066_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Sarah Campbell for Anthropologie Floral Blouse",
+      "price":90.00
+    },
+    {
+      "id":16,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve Cutout Crop Pants",
+      "price":148.00
+    },
+    {
+      "id":17,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4111916210024_045_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4111916210024_045_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Hutch Tailored Floral Blazer",
+      "price":180.00
+    },
+    {
+      "id":18,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130647160128_049_b3?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130647160128_049_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Sarah Campbell for Anthropologie Anorak Jacket",
+      "price":180.00
+    },
+    {
+      "id":19,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4112347800042_050_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4112347800042_050_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Sanctuary Dream Buttondown",
+      "price":69.00
+    },
+    {
+      "id":20,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125650590032_009_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125650590032_009_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "By Anthropologie Tiered Maxi Dress",
+      "price":180.00
+    },
+    {
+      "id":21,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125348690009_038_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125348690009_038_b3?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Somerset Maxi Dress",
+      "price":168.00
+    },
+    {
+      "id":22,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125609130017_079_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125609130017_079_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Devotion Twins Embroidered Ella Tunic Dress",
+      "price":239.00
+    },
+    {
+      "id":23,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4112347800042_050_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4112347800042_050_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Pilcro Sustainable Scoop Neck Tee",
+      "price":215.00
+    },
+    {
+      "id":24,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4130370060072_030_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4130370060072_030_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve The Colette Cropped Wide-Leg Pants",
+      "price":130.00
+    },
+    {
+      "id":25,
+      "img2": "https://images.urbndata.com/is/image/Anthropologie/4123831920025_014_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img1":"https://images.urbndata.com/is/image/Anthropologie/4123831920025_014_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Jenny Seamless T-Back Bralette",
+      "price":24.00
+    },
+    {
+      "id":26,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123650590210_008_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123650590210_008_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Sleeveless Somerset Mini Dress: Poplin Edition",
+      "price":205.00
+    },
+    {
+      "id":27,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4123057270014_014_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4123057270014_014_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Somerset Maxi Dress",
+      "price":155.00
+    },
+    {
+      "id":28,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125650590028_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125650590028_001_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Bl-nk Stephanie Top",
+      "price":145.00
+    },
+    {
+      "id":29,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125647160002_009_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125647160002_009_b15?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve Mock Neck Top",
+      "price":195.00
+    },
+    {
+      "id":30,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125900970003_091_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125900970003_091_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "The Somerset Mini Dress",
+      "price":215.00
+    },
+    {
+      "id":31,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125650590030_085_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125650590030_085_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Maeve The Colette Cropped Wide-Leg Pants",
+      "price":195.00
+    },
+    {
+      "id":32,
+      "img1": "https://images.urbndata.com/is/image/Anthropologie/4125647160002_009_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "img2":"https://images.urbndata.com/is/image/Anthropologie/4125647160002_009_b5?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "title": "Pilcro Ruched Ribbed Halter",
+      "price":215.00
+    }
+
+  ]
+
+
+
+
+  
+}
+
