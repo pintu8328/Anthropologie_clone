@@ -5,6 +5,7 @@ import { AiFillStar } from "react-icons/ai";
 const SingleProduct = ({id,location}) => {
   const [data,setData]=React.useState({})
   const [sidedata,setSidedata] = React.useState([]);
+  const [added, setAdded]=React.useState(false)
   const handleChange = (e) => {
     let inputName = e.target.name;
   
@@ -38,10 +39,18 @@ const SingleProduct = ({id,location}) => {
   }
 
   const handleSubmit=()=>{
+    setAdded(!added)
     let cartData = JSON.parse(localStorage.getItem("cartData")) || [];
     cartData.push(data);
     localStorage.setItem("cartData",JSON.stringify(cartData));
     
+  }
+
+  const handleSubmit2=()=>{
+    setAdded(!added)
+    let cartData = JSON.parse(localStorage.getItem("cartData")) || [];
+    cartData.pop(data);
+    localStorage.setItem("cartData",JSON.stringify(cartData));
   }
   return (
     <div>
@@ -144,9 +153,11 @@ const SingleProduct = ({id,location}) => {
             <label className="btn btn-outline-primary" htmlFor="btnradio3">
               L
             </label>
-          </div>
+          </div>{
+            added? <button  className={styles.button} onClick={handleSubmit2}>REMOVE FROM BASKET</button>:<button  className={styles.button}  onClick={handleSubmit}>ADD TO BASKET</button>
+          }
 
-          <button onClick={handleSubmit} className={styles.button}>ADD TO BASKET</button>
+          {/* <button onClick={handleSubmit} className={styles.button}>ADD TO BASKET</button> */}
 
           <div style={{width:"85%"}} className="accordion accordion-flush" id="accordionFlushExample">
             <div className="accordion-item">

@@ -268,7 +268,7 @@ function Navbar() {
             <ul className={styles.lists}>
             <li><Link to=""> New!</Link></li>
                 <li><Link to=""> Dresses</Link></li>
-                <li><Link to="/cloths"> Clothing</Link></li>
+                <li><Link to="/cloths"  style={{color:"white",backgroundColor:"black"}}> Clothing</Link></li>
                 <li><Link to=""> Shoes</Link></li>
                 <li><Link to=""> Accessories</Link></li>
                 <li><Link to="/"> Gifts and Candles</Link></li>

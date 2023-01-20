@@ -6,7 +6,8 @@ const Cloth = ({ products }) => {
   const [cloths, setCloths] = useState([]);
 
   const getData = () => {
-    fetch(`http://localhost:3001/${products}`)
+    // fetch(`http://localhost:3001/${products}`)
+    fetch(`https://talented-rose-panda.cyclic.app/api/user/cloth`)
       .then((res) => res.json())
       .then((d) => setCloths(d));
   };
